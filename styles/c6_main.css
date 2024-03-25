@@ -81,6 +81,26 @@ section {
 	padding: 0 20px 20px 20px;
 }
 
+section h2 {
+	color: #800000;
+}
+
+section h1 {
+	font-size: 150%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+	margin: 0;
+}
+
+section img {
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	border: 1px solid black;
+	padding-bottom: 0;
+}
+
 /* the styles for the article */
 article {
 	padding: .5em 0;
@@ -109,6 +129,10 @@ aside {
 	width: 215px;
 	float: right;
 	padding: 0 0 20px 20px;
+}
+
+aside h2 {
+	color: #800000;
 }
 
 /* the styles for the footer */
